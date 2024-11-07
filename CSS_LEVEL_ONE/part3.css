@@ -1,0 +1,25 @@
+.firstdiv{
+    color: green;
+}
+.secounddiv{
+    color: blue;
+}
+
+#id{
+    color: red;
+    text-decoration-line: line-through;
+}
+
+h3 + ul{
+    color: blueviolet;
+    border: 4px rebeccapurple dotted;
+
+}
+
+li a{
+    color: red;
+}
+li a[href="www.npr.org"]{
+  color: blue;
+  border: 5px solid orange;
+}
