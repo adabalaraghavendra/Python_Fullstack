@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(10, 19, 43);
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 50px;
+    margin: 20px;
+    
+}
+body{
+
+    font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  border: 40px solid aqua;
+  margin: 0px;
+}
+
+p{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#sign{
+    background-color: rgb(228, 153, 54);
+    box-shadow: inset;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.form{
+    text-align: center;
+    text-size-adjust: 1.5em;
+    margin-bottom: 10px;
+}
